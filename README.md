@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @aniketdhole
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning TeklaOpenAPI Developement.
   
 
